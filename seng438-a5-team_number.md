@@ -2,12 +2,12 @@
 
 **Lab. Report \#5 – Software Reliability Assessment**
 
-| Group \#:       |   |
+| Group \#:       |  7 |
 |-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Student Names:  |  Michele Pham |
+|                 |  Farica Mago |
+|                 |  Samira Khan |
+|                 |  Carter Drewes |
 
 # Introduction
 
